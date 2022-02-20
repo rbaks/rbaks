@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Smart contract development on Ethereum blockchain**
 
-- 👨‍💻 All of my projects are available at [andrianina.vercel.app](andrianina.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://andrianina.vercel.app)
 
 - 📫 How to reach me **rabakoson@protonmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a1J2xnvyDHPJUi13QhqluAv0cs5e9lR9Ab7BL-1_yg0/edit?usp=sharing](https://docs.google.com/document/d/1a1J2xnvyDHPJUi13QhqluAv0cs5e9lR9Ab7BL-1_yg0/edit?usp=sharing)
+- 📄 Know about my experiences : [my resume](https://docs.google.com/document/d/1a1J2xnvyDHPJUi13QhqluAv0cs5e9lR9Ab7BL-1_yg0/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
