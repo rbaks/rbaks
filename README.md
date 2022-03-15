@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Smart contract development on Ethereum blockchain**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://andrianina.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://andr.is-a.dev/me)
 
 - 📫 How to reach me **rabakoson@protonmail.com**
 
